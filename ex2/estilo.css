@@ -1,0 +1,51 @@
+body
+{
+    background-color: rgb(107, 247, 72);
+    font: normal 15pt Arial;
+    text-align: center;
+}
+header
+{
+    padding: 30px;
+    font: normal 40pt times;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+section
+{
+    margin: auto;
+    padding: 15px;
+    background-color: white;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.411);
+    height: flex;
+    justify-items: end;
+}
+#botao
+{
+    width: 80px;
+    height: 30px;
+    font: normal 15px arial;
+}
+div
+{
+    padding: 5px;
+}
+
+img
+{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+    object-fit:cover;
+}
+
+footer
+{
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font: normal 10pt;   
+}
